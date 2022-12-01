@@ -1,0 +1,31 @@
+.News{
+    color:aquamarine;
+    font-weight: lighter;
+    letter-spacing: 10px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-size: 50px;
+}
+
+body{
+    background-image: url(Eevee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h4{
+    color: aquamarine;
+    font-weight: lighter;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-size: 15px;
+}
+
+h1{
+    font-size: 90px;
+    text-align: center;
+    color: yellow;
+    letter-spacing: -2px;
+    font-family: "Comic Sans MS";
+}

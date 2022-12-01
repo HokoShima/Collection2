@@ -1,0 +1,10 @@
+body{
+    background-color: #A3E4D7;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 50px;
+    background-color: antiquewhite;
+}
